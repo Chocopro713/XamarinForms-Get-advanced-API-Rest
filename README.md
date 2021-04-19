@@ -1,3 +1,3 @@
 # Get-Advanced-API-Rest
 
-Consumir servicio API Rest avanzado.
+App de Guia para consumir un servicio API Rest Avanzado
